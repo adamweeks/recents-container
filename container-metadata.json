@@ -1,0 +1,9 @@
+{
+  "jsApiImpls": [],
+  "miniApps": [
+    "https://github.com/adamweeks/RecentsMiniApp.git"
+  ],
+  "nativeDeps": [
+    "react-native@0.55.3"
+  ]
+}
